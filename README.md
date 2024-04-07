@@ -1,1 +1,0 @@
-# 3d-graphics1
